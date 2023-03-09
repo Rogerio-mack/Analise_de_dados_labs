@@ -14,3 +14,6 @@
 
 27/02 [Lab Matplotlib - Distribuição dos dados (`hist`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Matplotlib_02.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Matplotlib_02_solucao.ipynb)
+
+06/03 [Lab Seaborn - Relações dos dados & Seaborn (`scatter`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Seaborn.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Seaborn_solucao.ipynb)
